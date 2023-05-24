@@ -2,7 +2,7 @@
   "name": "steel-phantom",
   "displayName": "Steel Phantom",
   "description": "A minimal dark theme for VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "DavidMass",
   "icon": "assets/logo.png",
   "author": {

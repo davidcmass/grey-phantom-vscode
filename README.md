@@ -24,7 +24,7 @@
 
 | Colour                                                   | Hex     |
 | -------------------------------------------------------- | ------- |
-| ![#26282c](https://placehold.co/15x15/26282c/26282c.png) | #26282c |
+| ![#232328](https://placehold.co/15x15/232328/232328.png) | #232328 |
 | ![#333338](https://placehold.co/15x15/333338/333338.png) | #333338 |
 | ![#5b6068](https://placehold.co/15x15/5b6068/5b6068.png) | #5b6068 |
 | ![#b0b0c2](https://placehold.co/15x15/b0b0c2/b0b0c2.png) | #b0b0c2 |
