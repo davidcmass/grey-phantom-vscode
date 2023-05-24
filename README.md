@@ -1,8 +1,8 @@
 <p align="center">
-  <img alt="Grey Phantom Logo" src="./assets/logo.png" width="100" />
+  <img alt="Steel Phantom Logo" src="./assets/logo.png" width="100" />
 </p>
 <h1 align="center">
-  Grey Phantom Theme for VsCode
+  Steel Phantom Theme for VsCode
 </h1>
 <p align="center">
   A minimal dark theme for VsCode.
@@ -15,10 +15,10 @@
 ## VsCode Installation
 
 1. Open the Extensions sidebar panel in Visual Studio Code by navigating to View → Extensions.
-2. In the search bar, type "Grey Phantom" to find the desired extension.
+2. In the search bar, type "Steel Phantom" to find the desired extension.
 3. Click on the "Install" button to initiate the installation process.
 4. After the installation is complete, click on "Reload" to refresh the editor.
-5. Go to Code → Preferences → Color Theme and select "Grey Phantom" as the desired color theme.
+5. Go to Code → Preferences → Color Theme and select "Steel Phantom" as the desired color theme.
 
 ## Colour Reference
 

@@ -1,6 +1,6 @@
 {
-  "name": "grey-phantom",
-  "displayName": "Grey Phantom",
+  "name": "steel-phantom",
+  "displayName": "Steel Phantom",
   "description": "A minimal dark theme for VS Code",
   "version": "0.0.1",
   "publisher": "DavidMass",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidcmass/grey-phantom-vscode"
+    "url": "https://github.com/davidcmass/steel-phantom-vscode"
   },
   "engines": {
     "vscode": "^1.78.0"
@@ -21,9 +21,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "grey-phantom",
+        "label": "steel-phantom",
         "uiTheme": "vs-dark",
-        "path": "./themes/grey-phantom-color-theme.json"
+        "path": "./themes/steel-phantom-color-theme.json"
       }
     ]
   }
