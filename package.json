@@ -3,6 +3,15 @@
   "displayName": "Grey Phantom",
   "description": "A minimal dark theme for VS Code",
   "version": "0.0.1",
+  "publisher": "DavidMass",
+  "icon": "assets/logo.png",
+  "author": {
+    "name": "DavidMass"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidcmass/grey-phantom-vscode"
+  },
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -12,9 +21,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Grey Phantom",
+        "label": "grey-phantom",
         "uiTheme": "vs-dark",
-        "path": "./themes/Grey Phantom-color-theme.json"
+        "path": "./themes/grey-phantom-color-theme.json"
       }
     ]
   }
